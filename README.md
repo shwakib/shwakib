@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sifat Hasan Wakib @shwakib
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Software Development, Network & Server Architecture.
 - 🌱 I’m currently learning Full stack web development with MERN.
 - 📫 You can reach me at sifat6460@gmail.com / sifathasanwakib@gmail.com
 
